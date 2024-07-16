@@ -31,6 +31,3 @@ Puedes ver una demostración del juego en el siguiente enlace: [Video del Juego 
 ## Contribuciones
 Cualquier contribución al proyecto es bienvenida. Si deseas mejorar el juego, no dudes en hacer un fork del repositorio y enviar tus cambios.
 
-## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-
