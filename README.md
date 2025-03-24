@@ -1,8 +1,5 @@
 # Proyecto: Juego TA-TE-TI
 
-## Integrante
-- Smania Matías
-
 ## Descripción del Proyecto
 Este proyecto es una implementación del clásico juego TA-TE-TI (también conocido como Tic-Tac-Toe), desarrollado en Java utilizando NetBeans. La aplicación permite a dos jugadores competir en un tablero 3x3, donde el objetivo es alinear tres de sus símbolos (X o O) en línea horizontal, vertical o diagonal. Este juego es ideal para practicar habilidades de programación y lógica.
 
